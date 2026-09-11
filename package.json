@@ -1,0 +1,1 @@
+{"name":"accessibility-architecture-audit","private":true,"scripts":{"dev":"npm run dev -w client & npm run dev -w server","test":"npm run test -w client && npm run test -w server","build":"npm run build -w client && npm run build -w server"},"workspaces":["client","server"]}
